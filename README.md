@@ -1,15 +1,21 @@
+
 # Hi 👋, I'm Sachin Jadhav
 
 I'm a passionate **Java Developer**, **Spring Boot Engineer**, and **Backend Developer** currently focused on building scalable applications using **Microservices**, **Kafka**, and **Cloud-Native** tools.
 
----
+- 💼 Skilled in developing backend solutions with **Java 17**, **Spring Boot**, **Spring MVC**, and **RESTful APIs**.
+- ⚙️ Experience with **Eureka**, **Feign**, **API Gateway**, and **Spring Cloud** for distributed service development.
+- 🚀 Currently building Microservices-based projects and exploring **Docker** and **CI/CD pipelines**.
+
 
 ## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Cloud Deployment**, **Docker**, and **Kafka**
-- 🚀 I'm working on a project: **Quiz App with Microservices, Eureka, and Feign**
+- 💻 I’m a passionate **Java Full Stack Developer** with a strong interest in building scalable backend systems.
+- 🔧 I enjoy working with **Spring Boot**, **Microservices**, and modern backend architectures.
+- 📚 Always eager to learn new technologies like **Docker**, **Kafka**, and **Cloud Deployment**.
+- 🤝 Open to collaboration and excited to contribute to impactful software projects.
 - 📫 Reach me at: [sachinj291103@gmail.com](mailto:sachinj291103@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/sachinjadhav](https://www.linkedin.com/in/sachin-jadhav-1b41a4265/)
+- 🌐 LinkedIn: [linkedin.com/in/sachinjadhav](https://www.linkedin.com/in/sachinjadhav)
 
 
 ## 🧰 Languages and Tools

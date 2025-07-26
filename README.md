@@ -1,17 +1,16 @@
 
 # Hi 👋, I'm Sachin Jadhav
 
-I'm a passionate **Java Developer**, **Spring Boot Engineer**, and **Backend Developer** currently focused on building scalable applications using **Microservices**, **Kafka**, and **Cloud-Native** tools.
-
-- 💼 Skilled in developing backend solutions with **Java 17**, **Spring Boot**, **Spring MVC**, and **RESTful APIs**.
-- ⚙️ Experience with **Eureka**, **Feign**, **API Gateway**, and **Spring Cloud** for distributed service development.
-- 🚀 Currently building Microservices-based projects and exploring **Docker** and **CI/CD pipelines**.
+I'm a passionate **Java Full Stack Developer**, **Spring Boot Engineer**, and **Backend Developer** currently focused on building scalable applications using **Microservices**, **Kafka**, and **Cloud-Native** tools.
 
 
 ## 🧑‍💻 About Me
 
 - 💻 I’m a passionate **Java Full Stack Developer** with a strong interest in building scalable backend systems.
+- 💼 Skilled in developing backend solutions with **Java**, **Spring Boot**, **Spring MVC**, **Spring JPA**, and **RESTful APIs**.
 - 🔧 I enjoy working with **Spring Boot**, **Microservices**, and modern backend architectures.
+- ⚙️ Experience with **Eureka**, **Feign**, **API Gateway**, and **Spring Cloud** for distributed service development.
+- 🚀 Currently building Microservices-based projects and exploring **Docker** and **CI/CD pipelines**.
 - 📚 Always eager to learn new technologies like **Docker**, **Kafka**, and **Cloud Deployment**.
 - 🤝 Open to collaboration and excited to contribute to impactful software projects.
 - 📫 Reach me at: [sachinj291103@gmail.com](mailto:sachinj291103@gmail.com)
@@ -42,8 +41,8 @@ I'm a passionate **Java Developer**, **Spring Boot Engineer**, and **Backend Dev
 
 ## 📂 Featured Projects
 
-- [🔗 Quiz App - Microservices, Eureka, Feign](https://github.com/your-username/quiz-app)
-- [🔗 Job Portal Full Stack Project](https://github.com/your-username/job-portal)
+- [🔗 Quiz App - Microservices, Eureka, Feign](https://github.com/SachinJ29/quiz-app)
+- [🔗 Job Portal Full Stack Project](https://github.com/SachinJ29/job-portal)
 
 ---
 

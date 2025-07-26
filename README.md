@@ -8,10 +8,9 @@ I'm a passionate **Java Developer**, **Spring Boot Engineer**, and **Backend Dev
 
 - 🌱 I’m currently learning **Cloud Deployment**, **Docker**, and **Kafka**
 - 🚀 I'm working on a project: **Quiz App with Microservices, Eureka, and Feign**
-- 📫 Reach me at: [your-email@gmail.com](mailto:your-email@gmail.com)
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📫 Reach me at: [sachinj291103@gmail.com](mailto:sachinj291103@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/sachinjadhav](https://www.linkedin.com/in/sachin-jadhav-1b41a4265/)
 
----
 
 ## 🧰 Languages and Tools
 

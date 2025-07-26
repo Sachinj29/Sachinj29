@@ -29,9 +29,9 @@ I'm a passionate **Java Developer**, **Spring Boot Engineer**, and **Backend Dev
 
 ## 📊 GitHub Stats
 
-![Your github stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your github stats](https://github-readme-stats.vercel.app/api?username=SachinJ29&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinJ29&layout=compact&theme=radical)
 
 ---
 

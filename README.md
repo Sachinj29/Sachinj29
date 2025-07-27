@@ -41,8 +41,8 @@ I'm a passionate **Java Full Stack Developer**, **Spring Boot Engineer**, and **
 
 ## 📂 Featured Projects
 
-- [🔗 Quiz App - Microservices, Eureka, Feign](https://github.com/SachinJ29/quiz-app)
-- [🔗 Job Portal Full Stack Project](https://github.com/SachinJ29/job-portal)
+- [🔗 Quiz App - Microservices, Eureka, Feign](https://github.com/Sachinj29/Quiz_App_MicroServices)
+- [🔗 Job Portal Full Stack Project](https://github.com/Sachinj29/JobWebCombine)
 
 ---
 

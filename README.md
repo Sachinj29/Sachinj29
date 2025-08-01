@@ -9,8 +9,7 @@ I'm a passionate **Java Full Stack Developer**, **Spring Boot Engineer**, and **
 - 💻 I’m a passionate **Java Full Stack Developer** with a strong interest in building scalable backend systems.
 - 💼 Skilled in developing backend solutions with **Java**, **Spring Boot**, **Spring MVC**, **Spring JPA**, and **RESTful APIs**.
 - 🔧 I enjoy working with **Spring Boot**, **Microservices**, and modern backend architectures.
-- ⚙️ Experience with **Eureka**, **Feign**, **API Gateway**, and **Spring Cloud** for distributed service development.
-- 🚀 Currently building Microservices-based projects and exploring **Docker** and **CI/CD pipelines**.
+- 🚀 Currently building Microservices-based projects and exploring **Docker**, **CI/CD pipelines**, **Eureka**, **Feign**, **API Gateway**, and **Spring Cloud** 
 - 📚 Always eager to learn new technologies like **Docker**, **Kafka**, and **Cloud Deployment**.
 - 🤝 Open to collaboration and excited to contribute to impactful software projects.
 - 📫 Reach me at: [sachinj291103@gmail.com](mailto:sachinj291103@gmail.com)
